@@ -33,7 +33,7 @@ My work is focused on both high-level security solutions (like my SIH projects) 
 | :--- | :--- | :--- |
 | **SIREN URL Detector** | `SIH-2025-Team-Repo` | An ML-based tool to detect URL-based attacks in real-time. |
 | **EnigmaObf Obfuscator** | `SIH-2025-Team-Repo` | An LLVM-based code obfuscator to make reverse engineering more difficult. |
-| **My 180-Day Lab** | `My-Cybersecurity-Portfolio` | **(BUILDING NOW)** A full SOC/AppSec lab. All write-ups are here. |
+| **My 180-Day Lab** | `My-Cybersecurity-Portfolio` | A full SOC. All write-ups are here. |
 
 ---
 
