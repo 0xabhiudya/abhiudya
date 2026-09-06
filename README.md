@@ -40,7 +40,7 @@ My work is focused on both high-level security solutions (like my SIH projects) 
 ### Connect With Me:
 
 <p align="left">
-  <a href="[YOUR-LINKEDIN-URL-HERE]" target="_blank">
+  <a href="https://www.linkedin.com/in/0xabhiudya/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Abhiudya%20Dwivedi-0077B5?style=flat&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/0xabhiudya" target="_blank">
