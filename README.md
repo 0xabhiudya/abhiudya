@@ -19,7 +19,7 @@ You can click the Preview link to take a look at your changes.
   <img src="https://img.shields.io/badge/STATUS-Building_Portfolio-yellow.svg" alt="Building Portfolio"/>
 </p>
 
-I am a cybersecurity professional with an M.Sc. foundation, currently on a **180-day public challenge** to build a hands-on, job-ready portfolio in SOC, Application Security, and DevSecOps.
+I am a cybersecurity professional with an M.Sc. foundation, currently on a mission to build a hands-on, job-ready portfolio in SOC.
 
 This profile is my "lab notebook." I'm documenting my journey from theory to CISO, one project at a time.
 
